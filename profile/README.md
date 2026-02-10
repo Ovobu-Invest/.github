@@ -36,7 +36,7 @@ This collaboration gives us access to experienced mentors, professional tools, a
 ### 🎓 Recruitment & Contribution
 We look for passionate students who want practical investment experience. While this GitHub hosts our code, our team consists of Equity Analysts, Marketing, Finance/Ops, and Quantitative Analysts.
 
-If you are interested in the **Quantitative Analyst** role (developing the code found here), look out for our application forms on our website or social media.
+If you are interested in the **Quantitative Analyst** role, look out for our application forms on our website or social media.
 
 ---
 
